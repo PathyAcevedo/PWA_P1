@@ -1,0 +1,17 @@
+.container {
+    margin: 1px 1px;
+}
+
+.no-box {
+    padding-left: 30px;
+    font-size: 25px;
+}
+
+.btn {
+    background-color: rgb(179, 179, 179);
+}
+
+.btn:hover {
+    color: white;
+    background-color: green;
+}
